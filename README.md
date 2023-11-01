@@ -46,7 +46,8 @@ Please ensure that you follow their respective usage policies and provide proper
 
 ## Dataset Folder 📁
 
-You can access the dataset in the "Hyperspectral Dataset" folder within this repository. Simply click [here](https://github.com/mak-raiaan/Hyperspectral-Image-Dataset/Hyperspectral%20Dataset/) to explore and use the dataset for your research. 📂
+You can access the dataset in the "Hyperspectral Dataset" folder within this repository. Simply click below link to explore and use the dataset for your research. 📂
+Link: [Hyperspectral Dataset on GitHub](https://github.com/mak-raiaan/Hyperspectral-Image-Dataset/tree/main/Hyperspectral%20Dataset)
 
 ## Citation and Usage 📝
 
